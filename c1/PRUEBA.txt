@@ -1,0 +1,13 @@
+public class Nodo{
+	Nodo enlace;
+	String data;	
+	public Nodo(String data){
+		this.data = null;	
+		this.enlace = null;
+	}
+}
+
+//Esto es una prueba
+/*
+prueba 01
+*/
