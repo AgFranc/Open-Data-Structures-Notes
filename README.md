@@ -1,5 +1,6 @@
 # resumenes
-# re
+![Texto alternativo](bg.png)
+
 
 ### LINKED LIST INTRO
 
